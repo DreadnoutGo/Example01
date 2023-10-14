@@ -1,0 +1,14 @@
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\bin\Debug\net7.0\Example003_Sum.exe
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\bin\Debug\net7.0\Example003_Sum.deps.json
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\bin\Debug\net7.0\Example003_Sum.runtimeconfig.json
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\bin\Debug\net7.0\Example003_Sum.dll
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\bin\Debug\net7.0\Example003_Sum.pdb
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\obj\Debug\net7.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\obj\Debug\net7.0\Example003_Sum.AssemblyInfoInputs.cache
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\obj\Debug\net7.0\Example003_Sum.AssemblyInfo.cs
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\obj\Debug\net7.0\Example003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\obj\Debug\net7.0\Example003_Sum.dll
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\obj\Debug\net7.0\refint\Example003_Sum.dll
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\obj\Debug\net7.0\Example003_Sum.pdb
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\obj\Debug\net7.0\Example003_Sum.genruntimeconfig.cache
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example003_Sum\obj\Debug\net7.0\ref\Example003_Sum.dll
