@@ -1,0 +1,14 @@
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\bin\Debug\net7.0\Example009_IntArray.exe
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\bin\Debug\net7.0\Example009_IntArray.deps.json
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\bin\Debug\net7.0\Example009_IntArray.runtimeconfig.json
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\bin\Debug\net7.0\Example009_IntArray.dll
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\bin\Debug\net7.0\Example009_IntArray.pdb
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\obj\Debug\net7.0\Example009_IntArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\obj\Debug\net7.0\Example009_IntArray.AssemblyInfoInputs.cache
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\obj\Debug\net7.0\Example009_IntArray.AssemblyInfo.cs
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\obj\Debug\net7.0\Example009_IntArray.csproj.CoreCompileInputs.cache
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\obj\Debug\net7.0\Example009_IntArray.dll
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\obj\Debug\net7.0\refint\Example009_IntArray.dll
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\obj\Debug\net7.0\Example009_IntArray.pdb
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\obj\Debug\net7.0\Example009_IntArray.genruntimeconfig.cache
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example009_IntArray\obj\Debug\net7.0\ref\Example009_IntArray.dll

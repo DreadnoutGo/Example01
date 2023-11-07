@@ -1,0 +1,14 @@
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\obj\Debug\net7.0\Example_011_arrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\obj\Debug\net7.0\Example_011_arrayLibrary.AssemblyInfoInputs.cache
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\obj\Debug\net7.0\Example_011_arrayLibrary.AssemblyInfo.cs
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\obj\Debug\net7.0\Example_011_arrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\bin\Debug\net7.0\Example_011_arrayLibrary.exe
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\bin\Debug\net7.0\Example_011_arrayLibrary.deps.json
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\bin\Debug\net7.0\Example_011_arrayLibrary.runtimeconfig.json
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\bin\Debug\net7.0\Example_011_arrayLibrary.dll
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\bin\Debug\net7.0\Example_011_arrayLibrary.pdb
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\obj\Debug\net7.0\Example_011_arrayLibrary.dll
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\obj\Debug\net7.0\refint\Example_011_arrayLibrary.dll
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\obj\Debug\net7.0\Example_011_arrayLibrary.pdb
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\obj\Debug\net7.0\Example_011_arrayLibrary.genruntimeconfig.cache
+C:\Users\likho\OneDrive\Рабочий стол\Example\Example01\Example_011_arrayLibrary\obj\Debug\net7.0\ref\Example_011_arrayLibrary.dll
